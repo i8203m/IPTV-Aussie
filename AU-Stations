@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="AUSTRALIA",ABC News
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="AUSTRALIA",Bloomberg Television
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="AUSTRALIA",Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2018/11/your-money-image.png" group-title="AUSTRALIA",Your Money
+https://yourmoneylive.akamaized.net/hls/live/712194/yourmoneyau/live1280x720.m3u8?fluxustv.m3u8
