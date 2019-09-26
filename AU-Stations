@@ -26,17 +26,17 @@ http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="AUSTRALIA",TVNZ 1 [Geo]
-https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="AUSTRALIA",TVNZ 2 (Opt-1)
-https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+http://43.224.120.99:8080/tv2/tv2_1500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="AUSTRALIA",TVNZ 2 (Opt-2)
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",AU 9Life
-http://124.188.2.167:9981/stream/channelid/590403208
+http://203.122.193.228:9981/stream/channelid/470360276
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="AUSTRALIA",ABC News Australia
-http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+http://203.208.100.17:9981/stream/channelid/822011981
 
