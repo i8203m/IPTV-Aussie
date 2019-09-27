@@ -40,6 +40,24 @@ http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",AU 9Life
 http://203.122.193.228:9981/stream/channelid/470360276
 
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="AUSTRALIA",7 HD
+http://203.208.100.17:9981/stream/channelid/351369755
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="AUSTRALIA",7TWO
+http://203.208.100.17:9981/stream/channelid/1218420122
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7MATE.png" group-title="AUSTRALIA",7mate
+http://203.208.100.17:9981/stream/channelid/1872313119
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7FO.png" group-title="AUSTRALIA",7 food network
+http://203.208.100.17:9981/stream/channelid/358181410
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7flix.png" group-title="AUSTRALIA",7 flix
+http://203.208.100.17:9981/stream/channelid/485076498
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="AUSTRALIA",9 HD
+http://203.208.100.17:9981/stream/channelid/194347985
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="AUSTRALIA",9 Life BK
+http://203.122.193.228:9981/stream/channelid/470360276
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="AUSTRALIA",9 Gem
+http://203.208.100.17:9981/stream/channelid/331586711
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="AUSTRALIA",9 Go!
+
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2018/11/your-money-image.png" group-title="AUSTRALIA",Your Money
 https://yourmoneylive.akamaized.net/hls/live/712194/yourmoneyau/live1280x720.m3u8?fluxustv.m3u8
 
