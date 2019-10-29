@@ -7,8 +7,29 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="AUSTRALIA",Bloomberg Television
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="AUSTRALIA",Expo Channel
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",AU 9Life
+http://203.122.193.228:9981/stream/channelid/470360276
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXqM4Og.png" group-title="AUSTRALIA",AU 9Life (Opt#01)
+http://185.102.219.151:7899/-mac/fYLkczeLEW/46547?token=GRdRWUpbQV9BVlpeBlMHBgZQXFdTBgFYBltWUwlSDlVVVgpbCgRRAVYRFEQQFxAGVQxnD1YVCVUFVlAFHEFNQgdHZlFdEVlHUgcKUlZVUEEYQ0wPX1IRWwJWUwADUgoCWwwVGklaB0dZEQtXW1FXQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFcNVRpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRWlcDURob
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXqM4Og.png" group-title="AUSTRALIA",AU 9Life Adelaide
+http://185.102.219.151:7899/-mac/fYLkczeLEW/46525?token=GRdRWUpbQV9BBVxeB1daUAdWCwMGBwIAAVMFVwkCDwFbAlxbDgUGA1URFEQQFxAGVQxnD1YVCVUFVlYHHEFNQgdHZlFdEVlHUgcKUlZVUEEYQ0wPX1IRWwJWUwADUgoFVAwVGklaB0dZEQtWVFtbQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFYFURpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRWlAFVRob
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXqM4Og.png" group-title="AUSTRALIA",AU 9Life Brisbane
+http://185.102.219.151:7899/-mac/fYLkczeLEW/46524?token=GRdRWUpbQV9BCg0HV1NaAgJSW1cKAgACVlMFBlJRXQJSDQ4BWApWVVQRFEQQFxAGVQxnD1YVCVUFVlYGHEFNQgdHZlFdEVlHUgcKUlZVUEEYQ0wPX1IRWwJWUwADUgoFVQAVGklaB0dZEQtXUlFVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFYAURpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRWlAFUxob
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXqM4Og.png" group-title="AUSTRALIA",AU 9Life Melbourne
+http://185.102.219.151:7899/-mac/fYLkczeLEW/46523?token=GRdRWUpbQV9BBwlTBgcHVFBTAQRRBwVWBFVSBAJbDQNTAgsPW1UCA1URFEQQFxAGVQxnD1YVCVUFVlYBHEFNQgdHZlFdEVlHUgcKUlZVUEEYQ0wPX1IRWwJWUwADUgoFWgQVGklaB0dZEQpVV1FSQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFYAWBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlEDVRob
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXqM4Og.png" group-title="AUSTRALIA",AU 9Life Perth
+http://185.102.219.151:7899/-mac/fYLkczeLEW/46522?token=GRdRWUpbQV9BUQkAAgJVUlZVAVUCVAdWBVpUVAcBWgFaDV8OWANVBloRFEQQFxAGVQxnD1YVCVUFVlYAHEFNQgdHZlFdEVlHUgcKUlZVUEEYQ0wPX1IRWwJWUwADUgoFWgIVGklaB0dZEQtUVFBXQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFYMVhpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA%2BQQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRWlAEWRob
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXqM4Og.png" group-title="AUSTRALIA",AU 9Life Sydney
+http://185.102.219.151:7899/-mac/fYLkczeLEW/46521?token=GRdRWUpbQV9BVQxRVVIBVAUFCQMDDlUDVQBWVlVXCQRTDFwAAFJVUVQRFEQQFxAGVQxnD1YVCVUFVlYDHEFNQgdHZlFdEVlHUgcKUlZVUEEYQ0wPX1IRWwJWUwADUgoFWwEVGklaB0dZEQtWW1VTQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFUFVxpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRWlAEVRob
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjMuYYs.png" group-title="AUSTRALIA",Network 10
+http://185.102.219.151:7899/-mac/fYLkczeLEW/46502?token=GRdRWUpbQV9BA1wHVVQDBgECXAMCD1IHUVdQVwMAAQlSBAAIXQBVVAARFEQQFxAGVQxnD1YVCVUFVlQAHEFNQgdHZlFdEVlHUgcKUlZVUEEYQ0wPX1IRWwJWUwADUgoEVwUVGklaB0dZEQlVVVVbQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFcNWBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFSUVMGWRob
 
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -19,6 +40,23 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="AUSTRALIA",7 HD
+http://203.208.100.17:9981/stream/channelid/351369755
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="AUSTRALIA",7TWO
+http://203.208.100.17:9981/stream/channelid/1218420122
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7MATE.png" group-title="AUSTRALIA",7mate
+http://203.208.100.17:9981/stream/channelid/1872313119
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7FO.png" group-title="AUSTRALIA",7 food network
+http://203.208.100.17:9981/stream/channelid/358181410
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7flix.png" group-title="AUSTRALIA",7 flix
+http://203.208.100.17:9981/stream/channelid/485076498
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="AUSTRALIA",9 HD
+http://203.208.100.17:9981/stream/channelid/194347985
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="AUSTRALIA",9 Life BK
+http://203.122.193.228:9981/stream/channelid/470360276
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="AUSTRALIA",9 Gem
+http://203.208.100.17:9981/stream/channelid/331586711
+#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="AUSTRALIA",9 Go!
 #EXTINF:-1 tvg-logo="http://www.wtv.co.nz/wp-content/themes/wtv/images/wtv_logo.jpg" group-title="AUSTRALIA",CTV 8 NZ
 http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
 
@@ -40,34 +78,13 @@ http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2017/01/4bc_hires_logo-2.png" group-title="AUSTRALIA",Studio 4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",AU 9Life
-http://203.122.193.228:9981/stream/channelid/470360276
-
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7HD.png" group-title="AUSTRALIA",7 HD
-http://203.208.100.17:9981/stream/channelid/351369755
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7TWO.png" group-title="AUSTRALIA",7TWO
-http://203.208.100.17:9981/stream/channelid/1218420122
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7MATE.png" group-title="AUSTRALIA",7mate
-http://203.208.100.17:9981/stream/channelid/1872313119
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7FO.png" group-title="AUSTRALIA",7 food network
-http://203.208.100.17:9981/stream/channelid/358181410
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/7flix.png" group-title="AUSTRALIA",7 flix
-http://203.208.100.17:9981/stream/channelid/485076498
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9HD.png" group-title="AUSTRALIA",9 HD
-http://203.208.100.17:9981/stream/channelid/194347985
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/9Life.png" group-title="AUSTRALIA",9 Life BK
-http://203.122.193.228:9981/stream/channelid/470360276
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GEM.png" group-title="AUSTRALIA",9 Gem
-http://203.208.100.17:9981/stream/channelid/331586711
-#EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/GO.png" group-title="AUSTRALIA",9 Go!
-
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2018/11/your-money-image.png" group-title="AUSTRALIA",Your Money
 https://yourmoneylive.akamaized.net/hls/live/712194/yourmoneyau/live1280x720.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="AUSTRALIA",ABC News (BK)
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="AUSTRALIA",Expo Channel (BK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="AUSTRALIA",Expo Channel
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="AUSTRALIA",NZ Three (BK)
