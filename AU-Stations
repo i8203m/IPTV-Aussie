@@ -7,8 +7,14 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="AUSTRALIA",Bloomberg Television
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B3DE72Z.png" group-title="AUSTRALIA",HGTV (US)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US)
 http://iptv-line.com:7899/-mac/fYLkczeLEW/50038
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US) Opt#01
+http://iptv-line.com:7899/0gSKCCUjQB/SeP9QjRaCC/11773
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US) Opt#02
+http://iptv-line.com:7899/-mac/fYLkczeLEW/5794
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",AU 9Life
 http://203.122.193.228:9981/stream/channelid/470360276
