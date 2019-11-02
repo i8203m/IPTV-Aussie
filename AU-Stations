@@ -16,6 +16,12 @@ http://iptv-line.com:7899/0gSKCCUjQB/SeP9QjRaCC/11773
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US) Opt#02
 http://iptv-line.com:7899/-mac/fYLkczeLEW/5794
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US) Opt#03
+http://23.237.22.82:8086/udp/127.0.0.1:56069
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US) Opt#04
+https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",AU 9Life
 http://203.122.193.228:9981/stream/channelid/470360276
 
