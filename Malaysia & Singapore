@@ -46,3 +46,30 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yylKCof.png" group-title="Malaysia / Singapore",Suria Mediacorp
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VvM07qQ.jpg" group-title="Malaysia / Singapore",SCTV HD Indonesia
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=Lse1lRx5&v=20200202
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mq6MBOY.png" group-title="Malaysia / Singapore",3 HD-Thailand
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aeOyqbU.png" group-title="Malaysia / Singapore",7 HD-Thailand
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYxJLW5.png" group-title="Malaysia / Singapore",CH8-Thailand
+http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnywluk.png" group-title="Malaysia / Singapore",WOA Kapatid TV5-Philippines
+http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/GMAPinoy.ph.png" group-title="Malaysia / Singapore",GMA Pinoy TV Philippines
+http://164.40.161.43:10011
+
+#EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg" group-title="Malaysia / Singapore",Channel K Myanmar
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+
+
+
+
+
