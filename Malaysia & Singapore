@@ -8,6 +8,28 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 #EXTINF:tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="Malaysia / Singapore",Astro Awani (Opt#2)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
+#EXTINF:tvg-logo="https://i.imgur.com/mT39Tk9.jpg" group-title="Malaysia / Singapore", TV3
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/lm7YDjt.png" group-title="Malaysia / Singapore", NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/gvfV7KO.png" group-title="Malaysia / Singapore", 8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/BVapdZ1.jpg" group-title="Malaysia / Singapore", TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/szhDH1W.png" group-title="Malaysia / Singapore", Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Malaysia / Singapore", TV1
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia / Singapore", TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Malaysia / Singapore", OKEY
+https://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Malaysia / Singapore",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
@@ -22,3 +44,5 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PcLnwx.png" group-title="Malaysia / Singapore",OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yylKCof.png" group-title="Malaysia / Singapore",Suria Mediacorp
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
