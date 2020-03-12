@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6mToY6r.jpg" group-title="NEWS & DOCU", SKY NEWS (YouTube)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1583996151/ei/lohpXoj5KoK83LUPl--QyA4/ip/202.187.158.237/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRAIgQpjBBJfncILLCuQwun46BYa3IvH13Dz6Vn7m5E1B1gcCIAwPvEmm59izhp4QtFrFJah6T-DnIdQGzIFLf_0YpFBe/file/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NGLKKpJ.png" group-title="NEWS & DOCU", ABC News Australia (YouTube) 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584021808/ei/0OxpXrrIBvzo4-EPoLOp4AI/ip/202.187.158.237/id/xrkl3FmVq8M.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRAIgZ-jET0H5GQphszowh1ndVN8xEt6JkpighKGL-alWmsMCIEtfR_QXc0UMo81K90FUrxWGwDzJSvePU9fut3ps9yXU/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOCU", BBC World News 
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
