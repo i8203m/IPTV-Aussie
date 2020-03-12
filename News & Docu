@@ -1,12 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6mToY6r.jpg" group-title="NEWS & DOCU", SKY NEWS (YouTube)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584022657/ei/IfBpXq_BGYi_1Ab0gb7QCA/ip/202.187.158.237/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAOR6NRldlUZvczbxRcU9Dtglqg6I0uzUGGUMaWcb4mDWAiEAnGRixNhrffSROUgAkoY9DhbJ_wsL_7EzkGnyPcc1NA8%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NGLKKpJ.png" group-title="NEWS & DOCU", ABC News Australia (YouTube) 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584021808/ei/0OxpXrrIBvzo4-EPoLOp4AI/ip/202.187.158.237/id/xrkl3FmVq8M.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRAIgZ-jET0H5GQphszowh1ndVN8xEt6JkpighKGL-alWmsMCIEtfR_QXc0UMo81K90FUrxWGwDzJSvePU9fut3ps9yXU/file/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOCU", BBC World News 
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOCU", BBC World News (Opt#2)
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 
@@ -21,14 +16,9 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS & DOCU", CNN International 
 http://92.43.140.249/s27/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS & DOCU", CNN International (Opt#2)
-http://84.22.33.254/unicast.cnn/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="NEWS & DOCU", ABC (US) News 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO9gSje.png" group-title="NEWS & DOCU", CNBC
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OAUKT48.png" group-title="NEWS & DOCU", DW News
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
@@ -48,9 +38,6 @@ http://45.126.83.51/uq2663/h/h03/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="NEWS & DOCU",TRT World (UK) 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="NEWS & DOCU",TRT World (YouTube) 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584022788/ei/pPBpXpepHMKFssUPqMGmiAo/ip/202.187.158.237/id/CV5Fooi8YJA.369/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630%2C23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAMpcOUVQh3QfL1xp8gbb_UqhCRroYBShUBm-IZNXqagHAiEA0BmSPfqd5qYjhMxHB6OmIMPT1ajpaw110amm7BmioT4%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="NEWS & DOCU",NHK WORLD JAPAN
 http://45.126.83.51/uq2663/h/h23/index.m3u8
@@ -86,8 +73,6 @@ https://live.chdrstatic.com/cbn/primary/1.m3u8
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="NEWS & DOCU",Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="NEWS & DOCU",Voice of America (Opt#2)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU", Nat Geo People HD English 
