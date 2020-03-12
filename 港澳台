@@ -23,9 +23,6 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
-http://112.50.243.10/PLTV/88888888/224/3221225901/2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
 http://m.567it.com/jade.m3u8
 
@@ -34,15 +31,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4SZjNe.png" group-title="港澳台",TVB 星河频道
-http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000015391574&ct=17984&tsum=168fc6ebb3cd296ba6444593acba415d
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
-http://59.148.103.41:8000/bysid/99
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOXER9b.jpg" group-title="港澳台",有线电视第一台
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32tOChd.jpg" group-title="港澳台",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
