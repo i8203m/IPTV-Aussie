@@ -71,7 +71,11 @@ https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Teud8H8.png" group-title="Malaysia / Singapore",AFC
 http://streamku.live:8888/live/adit/adit123/477.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="Malaysia / Singapore",HGTV Asia
+http://streamku.live:8888/live/adit/adit123/476.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owSaJZ0.png" group-title="Malaysia / Singapore",TLC Asia
+http://streamku.live:8888/live/adit/adit123/475.ts
 
 
 
