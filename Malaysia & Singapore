@@ -48,7 +48,7 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VvM07qQ.jpg" group-title="Malaysia / Singapore",SCTV HD Indonesia
-https://delivery.macan.live/stream/id_sctv/index.m3u8?token=Lse1lRx5&v=20200202
+http://streamku.live:8888/live/adit/adit123/608.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mq6MBOY.png" group-title="Malaysia / Singapore",3 HD-Thailand
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
@@ -67,6 +67,9 @@ http://164.40.161.43:10011
 
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg" group-title="Malaysia / Singapore",Channel K Myanmar
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Teud8H8.png" group-title="Malaysia / Singapore",AFC
+http://streamku.live:8888/live/adit/adit123/477.ts
 
 
 
