@@ -41,9 +41,6 @@ http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Q652si.jpg" group-title="港澳台",澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-1)
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IIr1zOj.jpg" group-title="港澳台",靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 
@@ -59,6 +56,21 @@ http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52QADpM.jpg" group-title="港澳台",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 HD
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F6xLto5.jpg" group-title="港澳台",CTV 中视新闻
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtvQq6C.jpg" group-title="港澳台",CTI 中天新闻
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmCTgFQ.png" group-title="港澳台",CTS  华视新闻资讯
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0s7Yqv.jpg" group-title="港澳台",EBC 东森新闻
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK (Opt-1)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 
@@ -70,6 +82,9 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RTHK TV 31 (Opt-3)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台(exodiver)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-2)
 http://210.61.56.23/hls/ftvtv/index.m3u8
