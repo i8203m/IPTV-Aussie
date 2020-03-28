@@ -2,7 +2,10 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOCU", BBC World News 
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NEWS & DOCU",Euronews (FR)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NEWS & DOCU",Euronews (exodiver)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NEWS & DOCU",Euronews (Opt#1)
 http://61.58.60.230:9319/live/129.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS & DOCU",France 24
@@ -95,6 +98,9 @@ https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="NEWS & DOCU",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8HebaM.png" group-title="NEWS & DOCU",CNEWs (French Exodiver)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU",Nat Geo People (MENA)
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
