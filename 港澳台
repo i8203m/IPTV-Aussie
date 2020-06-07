@@ -8,26 +8,35 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK (rthk.hk)
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg" group-title="港澳台",HKS 香港衛視
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DSUEjtX.jpg" group-title="港澳台",HKS 香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LC5zsIF.png" group-title="港澳台",鳳凰香港台
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="港澳台",凤凰中文台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3xgVFH.jpg" group-title="港澳台",凤凰中文台
 http://112.50.243.8/PLTV/88888888/224/3221225900/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="港澳台",凤凰中文台 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3xgVFH.jpg" group-title="港澳台",凤凰中文台 HD
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
-http://m.567it.com/jade.m3u8
+http://61.238.6.49:8000/bysid/1/1.mpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SoO2XDD.jpg" group-title="港澳台",明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+http://61.238.6.49:8001/bysid/2/2.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyBT53T.jpg" group-title="港澳台",ATV
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
+http://61.238.6.49:8000/bysid/99/99.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV6
+http://61.238.6.49:8000/bysid/96/96.mpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
