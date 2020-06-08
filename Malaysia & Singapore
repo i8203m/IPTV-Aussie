@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:tvg-logo="https://i.imgur.com/XGd5uPp.jpg" group-title="Malaysia / Singapore", 國際嘉麗台
-http://61.58.60.230:9319/live/205.m3u8
-
 #EXTINF:tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="Malaysia / Singapore",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
-#EXTINF:tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="Malaysia / Singapore",Astro Awani (Opt#2)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-
-#EXTINF:tvg-logo="https://i.imgur.com/mT39Tk9.jpg" group-title="Malaysia / Singapore", TV3
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/c1G3or8.jpg" group-title="Malaysia / Singapore", Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
 #EXTINF:tvg-logo="https://i.imgur.com/lm7YDjt.png" group-title="Malaysia / Singapore", NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
@@ -23,12 +17,10 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:tvg-logo="https://i.imgur.com/szhDH1W.png" group-title="Malaysia / Singapore", Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
-#EXTINF:tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Malaysia / Singapore", TV1
-https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia / Singapore", TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Malaysia / Singapore", OKEY
-https://rtm1hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Malaysia / Singapore",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -46,6 +38,15 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yylKCof.png" group-title="Malaysia / Singapore",Suria Mediacorp
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Malaysia / Singapore", TV1
+https://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/mT39Tk9.jpg" group-title="Malaysia / Singapore", TV3
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="Malaysia / Singapore",Astro Awani (Opt#2)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VvM07qQ.jpg" group-title="Malaysia / Singapore",SCTV HD Indonesia
 http://streamku.live:8888/live/adit/adit123/608.ts
@@ -67,15 +68,6 @@ http://164.40.161.43:10011
 
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg" group-title="Malaysia / Singapore",Channel K Myanmar
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Teud8H8.png" group-title="Malaysia / Singapore",AFC
-http://streamku.live:8888/live/adit/adit123/477.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="Malaysia / Singapore",HGTV Asia
-http://streamku.live:8888/live/adit/adit123/476.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owSaJZ0.png" group-title="Malaysia / Singapore",TLC Asia
-http://streamku.live:8888/live/adit/adit123/475.ts
 
 
 
