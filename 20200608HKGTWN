@@ -1,0 +1,135 @@
+#EXTM3U
+
+#EXTINF:tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="港澳台",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyBT53T.jpg" group-title="港澳台",ATV
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
+http://61.238.6.49:8000/bysid/99/99.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV6
+http://61.238.6.49:8000/bysid/96/96.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK (rthk.hk)
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK (rthk.hk)
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LC5zsIF.png" group-title="港澳台",鳳凰香港台
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3xgVFH.jpg" group-title="港澳台",凤凰中文台
+http://112.50.243.8/PLTV/88888888/224/3221225900/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3xgVFH.jpg" group-title="港澳台",凤凰中文台 HD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DSUEjtX.jpg" group-title="港澳台",HKS 香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
+http://61.238.6.49:8000/bysid/1/1.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SoO2XDD.jpg" group-title="港澳台",明珠台
+http://61.238.6.49:8001/bysid/2/2.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q652si.jpg" group-title="港澳台",澳视澳门
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QVBONQ.png" group-title="港澳台",原住民族電視台
+https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wbOhJV.jpg" group-title="港澳台",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxGSnTE.jpg" group-title="港澳台",TVBS歡樂台
+http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elAJ4LD.jpg" group-title="港澳台",NewTV 爱情喜剧
+http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIsjMIT.jpg" group-title="港澳台",NewTV 家庭剧场
+http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNEDWYV.jpg" group-title="港澳台",NewTV 海外剧场
+http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHWxeyG.jpg" group-title="港澳台",NewTV 精品大剧
+http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCwJ1gH.jpg" group-title="港澳台",NewTV 军旅剧场
+http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgPHAd7.jpg" group-title="港澳台",NewTV 古装剧场
+http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kbxXYwI.jpg" group-title="港澳台",NewTV 明星大片
+http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/08hw6Nh.jpg" group-title="港澳台",NewTV 动作电影
+http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XInfx0T.jpg" group-title="港澳台",NewTV 惊悚悬疑
+http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhT8ziG.png" group-title="港澳台",NewTV 金牌综艺
+http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxgqkN9.jpg" group-title="港澳台",NewTV 健康有约
+http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVHVwlD.jpg" group-title="港澳台",NewTV 军事评论
+http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/08hw6Nh.jpg" group-title="港澳台",NewTV 炫舞未来
+http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 音乐综艺
+http://v.iam7.cn/iptv/cibn.php?code=145
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 流行榜单
+http://v.iam7.cn/iptv/cibn.php?code=155
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 经典音乐
+http://v.iam7.cn/iptv/cibn.php?code=128
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 女团专场
+http://v.iam7.cn/iptv/cibn.php?code=208
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 全球歌曲
+http://v.iam7.cn/iptv/cibn.php?code=338
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 HD
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtvQq6C.jpg" group-title="港澳台",CTI 中天新闻
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmCTgFQ.png" group-title="港澳台",CTS  华视新闻资讯
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0s7Yqv.jpg" group-title="港澳台",EBC 东森新闻
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK (Opt-1)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK (Opt-2)
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RTHK TV 31 (Opt-2)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RTHK TV 31 (Opt-3)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台(exodiver)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F6xLto5.jpg" group-title="港澳台",CTV 中视新闻(exodiver)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-2)
+http://210.61.56.23/hls/ftvtv/index.m3u8
