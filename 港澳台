@@ -26,6 +26,9 @@ http://117.169.120.138:8080/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
 http://61.238.6.49:8000/bysid/1/1.mpeg
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台 (Opt#2)
+http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SoO2XDD.jpg" group-title="港澳台",明珠台
 http://61.238.6.49:8001/bysid/2/2.mpeg
 
