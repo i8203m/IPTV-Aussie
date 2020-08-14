@@ -15,6 +15,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US)
 http://beastiptv.tv:25461/live/malcolm/malcolm/6009.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (Opt#2)
+http://c2.fedb.club:8880/hjh14m3358402778/34767345/3119
 
 #EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="AUSTRALIA",NZ Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
