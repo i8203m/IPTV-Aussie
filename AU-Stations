@@ -13,6 +13,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6nPv02.png" group-title="AUSTRALIA",Channel 44 Adelaide
+https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/index_0500_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US)
 http://beastiptv.tv:25461/live/malcolm/malcolm/6009.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (Opt#2)
