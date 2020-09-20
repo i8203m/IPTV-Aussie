@@ -34,13 +34,37 @@ http://117.169.120.138:8080/live/fhzixun/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
+http://61.238.6.49:8000/bysid/1.mpeg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
 http://61.238.6.49:8000/bysid/1/1.mpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SoO2XDD.jpg" group-title="港澳台",明珠台
 http://61.238.6.49:8001/bysid/2/2.mpeg
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHECeAE.jpg" group-title="港澳台",無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l02HnSF.jpg" group-title="港澳台",無綫財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCK2WQU.png" group-title="港澳台",TVB 星河频道
+http://live5.ocnttv.com:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXGcjSO.png" group-title="港澳台",有線綜合娱乐
+http://livetv.dnsfor.me/channel.7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J2EhwLi.jpg" group-title="港澳台",有線新闻
+http://livetv.dnsfor.me/channel.5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jr8BIRt.jpg" group-title="港澳台",有線財經資訊
+http://livetv.dnsfor.me/channel.6.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Q652si.jpg" group-title="港澳台",澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUybywX.jpg" group-title="港澳台",澳视澳门 3
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3QVBONQ.png" group-title="港澳台",原住民族電視台
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/playlist.m3u8
