@@ -67,7 +67,7 @@ http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3QVBONQ.png" group-title="港澳台",原住民族電視台
-https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/playlist.m3u8
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wbOhJV.jpg" group-title="港澳台",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
@@ -75,67 +75,35 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JxGSnTE.jpg" group-title="港澳台",TVBS歡樂台
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/elAJ4LD.jpg" group-title="港澳台",NewTV 爱情喜剧
-http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIsjMIT.jpg" group-title="港澳台",NewTV 家庭剧场
-http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNEDWYV.jpg" group-title="港澳台",NewTV 海外剧场
-http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIsjMIT.jpg" group-title="港澳台",NewTV 家庭剧场 2
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226290/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHWxeyG.jpg" group-title="港澳台",NewTV 精品大剧
-http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elAJ4LD.jpg" group-title="港澳台",NewTV 爱情喜剧
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wCwJ1gH.jpg" group-title="港澳台",NewTV 军旅剧场
-http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHWxeyG.jpg" group-title="港澳台",NewTV 精品纪录
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dgPHAd7.jpg" group-title="港澳台",NewTV 古装剧场
-http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳台",NewTV 精品大剧
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kbxXYwI.jpg" group-title="港澳台",NewTV 明星大片
-http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/08hw6Nh.jpg" group-title="港澳台",NewTV 动作电影
-http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XInfx0T.jpg" group-title="港澳台",NewTV 惊悚悬疑
-http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港澳台",NewTV 超级电视剧
+http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhT8ziG.png" group-title="港澳台",NewTV 金牌综艺
-http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SxgqkN9.jpg" group-title="港澳台",NewTV 健康有约
-http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XInfx0T.jpg" group-title="港澳台",NewTV 惊悚悬疑
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zVHVwlD.jpg" group-title="港澳台",NewTV 军事评论
-http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/08hw6Nh.jpg" group-title="港澳台",NewTV 炫舞未来
-http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 音乐综艺
-http://v.iam7.cn/iptv/cibn.php?code=145
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 流行榜单
-http://v.iam7.cn/iptv/cibn.php?code=155
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 经典音乐
-http://v.iam7.cn/iptv/cibn.php?code=128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 女团专场
-http://v.iam7.cn/iptv/cibn.php?code=208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfdM8JO.jpg" group-title="港澳台",CIBN 全球歌曲
-http://v.iam7.cn/iptv/cibn.php?code=338
+#EXTINF:-1 tvg-logo="" group-title="港澳台",NewTV 精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EtvQq6C.jpg" group-title="港澳台",CTI 中天新闻
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTINews.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OmCTgFQ.png" group-title="港澳台",CTS  华视新闻资讯
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTSNews.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0s7Yqv.jpg" group-title="港澳台",EBC 东森新闻
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EBCNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK (Opt-1)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
@@ -151,9 +119,6 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台(exodiver)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F6xLto5.jpg" group-title="港澳台",CTV 中视新闻(exodiver)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-2)
 http://210.61.56.23/hls/ftvtv/index.m3u8
