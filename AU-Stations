@@ -16,26 +16,11 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6nPv02.png" group-title="AUSTRALIA",Channel 44 Adelaide
 https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/index_0500_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (US)
-http://beastiptv.tv:25461/live/malcolm/malcolm/6009.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OYbZsz3.png" group-title="AUSTRALIA",HGTV (Opt#2)
-http://c2.fedb.club:8880/hjh14m3358402778/34767345/3119
-
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/Web_THREE_1280x1280.png" group-title="AUSTRALIA",NZ Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Tvsn.svg/320px-Tvsn.png" group-title="AUSTRALIA",TVSN NZ
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png" group-title="AUSTRALIA",Expo Channel
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ11280x1280.png" group-title="AUSTRALIA",TVNZ 1 [Geo]
-http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/TVNZ21280x1280.png" group-title="AUSTRALIA",TVNZ 2 (Opt-1)
-http://43.224.120.99:8080/tv2/tv2_1500k.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",AU 9Life
-http://203.122.193.228:9981/stream/channelid/470360276
 
