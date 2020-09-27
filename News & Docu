@@ -11,14 +11,14 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NEWS & DOCU",Euronews (exodiver)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NEWS & DOCU",Euronews (Opt#1)
-http://61.58.60.230:9319/live/129.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS & DOCU",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS & DOCU",France 24 (Opt#2)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS & DOCU", Al-jazeera 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS & DOCU", CNN 
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -40,16 +40,20 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hz1kFW0.jpg" group-title="NEWS & DOCU", Bloomberg Asia TV 
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hz1kFW0.jpg" group-title="NEWS & DOCU", Bloomberg Asia TV (Opt#2)
-http://45.126.83.51/uq2663/h/h03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NEWS & DOCU",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS & DOCU",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS & DOCU",CGTN Documentary #2
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="NEWS & DOCU",TRT World (UK) 
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="NEWS & DOCU",NHK WORLD JAPAN
-http://45.126.83.51/uq2663/h/h23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="NEWS & DOCU",NHK WORLD (Opt#2)
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YP30Eir.png" group-title="NEWS & DOCU",NHK WORLD Premium
@@ -67,65 +71,17 @@ http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SMvAjyK.png" group-title="NEWS & DOCU",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
-#EXTINF:-1 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NEWS & DOCU",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS & DOCU",CGTN Documentary
-http://live.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS & DOCU", Al-jazeera 
-https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Cheddar_logo.png" group-title="NEWS & DOCU", Cheddar News (New!)
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Cheddar_logo.png" group-title="NEWS & DOCU", Cheddar Business (New!)
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="NEWS & DOCU",Voice of America
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU", Nat Geo People HD English 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU", Nat Geo People SD English
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="NEWS & DOCU", Nat Geo WILD 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="NEWS & DOCU", National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="NEWS & DOCU", H2 HD
-http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oog4qvf.jpg" group-title="NEWS & DOCU",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QNaPXLj.png" group-title="NEWS & DOCU",Documentaries 4U
-https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="NEWS & DOCU",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8HebaM.png" group-title="NEWS & DOCU",CNEWs (French Exodiver)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU",Nat Geo People (MENA)
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="NEWS & DOCU",Nat Geo Wild (MENA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="NEWS & DOCU",National Geographic (MENA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="NEWS & DOCU",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="NEWS & DOCU", Al-jazeera (BK)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS & DOCU",CBS News (BK)
 http://161.0.157.9/PLTV/88888888/224/3221227041/01.m3u8
